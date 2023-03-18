@@ -1,0 +1,32 @@
+Core Features:
+	Track Income:
+		Integrate with banking/ credit APIs
+		Gather Income Data and Process It
+		Toolbar includes menu called settings
+		settings/accounts the location where you enter your login details for banking apps
+		encrypt passwords for security concerns
+
+	
+	Track Expenses:
+		Integrate with banking/ credit APIs
+
+	Store Photo Receipts:
+		use a PDF for each receipt or other file format for data storage and tie it to each expendature/income transaction
+	Display Net Values:
+		Calculate these values using income/expense data 
+		Display Net Total
+		Display Net Available for Spending
+
+Added Features
+
+	Integrate with PLAID API For accessing user data
+
+	ADD PDF Parsing capabilities for integration with Bank statements used to auto populate missing data and confirm already present information
+
+	Maybe integrate a smartphone dashboard/ receipt scanner for ease of tracking immediately
+
+	Use custom file structure for data storage and retrieval (maybe use .fintrak as the extension)
+
+	Integrate Backup recovery system, use frequent auto-saves, Don't Let Users exit application when auto saving is ocurring, instead complete the save then exit. Use a message/ progress bar to notify user that saving is ocurring. store backup files in special folder for easy access in case normal file becomes corrupted
+
+	
