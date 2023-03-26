@@ -1,0 +1,16 @@
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\bin\Debug\FinTrak a0.0.1.exe.config
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\bin\Debug\FinTrak a0.0.1.exe
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\bin\Debug\FinTrak a0.0.1.pdb
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1.csproj.AssemblyReference.cache
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\MainWindow.g.cs
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\App.g.cs
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1_MarkupCompile.cache
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1_MarkupCompile.lref
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\MainWindow.baml
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1.g.resources
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak_a0._0._1.Properties.Resources.resources
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1.csproj.GenerateResource.cache
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1.exe
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\FinTrak a0.0.1.pdb

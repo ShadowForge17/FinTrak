@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Debug\
+C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\obj\Release\
 FinTrak_a0._0._1
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\FinTrak a0.0.1\App.xaml
 1219584333
 
@@ -16,5 +16,5 @@ C:\Users\Joseph\Source\Repos\ShadowForge17\FinTrak\Admin\Source\FinTrak Source\F
 13-38814620
 MainWindow.xaml;
 
-False
+True
 
